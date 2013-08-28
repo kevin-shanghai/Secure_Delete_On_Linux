@@ -1,5 +1,5 @@
-###Author:kevin.fu
-###Email: kevinfu1985@gmail.com
+###Author:kevinfu1985@gmail.com
+
 ###Date:2013/08/28
 
 A programe which used to erase file, disk sector, file system completely!
@@ -12,10 +12,6 @@ A programe which used to erase file, disk sector, file system completely!
 ###start the UI interface, also you can use the command line to start it.
 
 
-You must be very careful to use, you will never 
-=
-recover your data or file when you done these
-= 
-operation! 
-=
-
+##You must be very careful to use, you will never 
+##recover your data or file when you done these
+##operation! 
