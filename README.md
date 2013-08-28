@@ -1,8 +1,8 @@
 ###Author:Kevin.Fu
 
-###kevinfu1985@gmail.com
+###Email: kevinfu1985@gmail.com
 
-###Date:2013/08/28
+###Date:  2013/08/28
 
 A programe which used to erase file, disk sector, file system completely!
 ==========================================================================
