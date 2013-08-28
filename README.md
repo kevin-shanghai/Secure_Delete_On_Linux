@@ -1,4 +1,6 @@
-###Author:kevinfu1985@gmail.com
+###Author:Kevin.Fu
+
+###kevinfu1985@gmail.com
 
 ###Date:2013/08/28
 
